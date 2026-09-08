@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Il Matto",
+    "seme": null,
+    "base_value": 0,
+    "arcana": "major"
+  },
+  {
+    "name": "Il Mago",
+    "seme": null,
+    "base_value": 1,
+    "arcana": "major"
+  },
+  {
+    "name": "La Papessa",
+    "seme": null,
+    "base_value": 2,
+    "arcana": "major"
+  },
+  {
+    "name": "L'Imperatrice",
+    "seme": null,
+    "base_value": 3,
+    "arcana": "major"
+  },
+  {
+    "name": "L'Imperatore",
+    "seme": null,
+    "base_value": 4,
+    "arcana": "major"
+  },
+  {
+    "name": "Il Papa",
+    "seme": null,
+    "base_value": 5,
+    "arcana": "major"
+  },
+  {
+    "name": "Gli Amanti",
+    "seme": null,
+    "base_value": 6,
+    "arcana": "major"
+  },
+  {
+    "name": "Il Carro",
+    "seme": null,
+    "base_value": 7,
+    "arcana": "major"
+  },
+  {
+    "name": "La Giustizia",
+    "seme": null,
+    "base_value": 8,
+    "arcana": "major"
+  },
+  {
+    "name": "L'Eremita",
+    "seme": null,
+    "base_value": 9,
+    "arcana": "major"
+  },
+  {
+    "name": "La Ruota della Fortuna",
+    "seme": null,
+    "base_value": 10,
+    "arcana": "major"
+  },
+  {
+    "name": "La Forza",
+    "seme": null,
+    "base_value": 11,
+    "arcana": "major"
+  },
+  {
+    "name": "L'Appeso",
+    "seme": null,
+    "base_value": 12,
+    "arcana": "major"
+  },
+  {
+    "name": "La Morte",
+    "seme": null,
+    "base_value": 13,
+    "arcana": "major"
+  },
+  {
+    "name": "La Temperanza",
+    "seme": null,
+    "base_value": 14,
+    "arcana": "major"
+  },
+  {
+    "name": "Il Diavolo",
+    "seme": null,
+    "base_value": 15,
+    "arcana": "major"
+  },
+  {
+    "name": "La Torre",
+    "seme": null,
+    "base_value": 16,
+    "arcana": "major"
+  },
+  {
+    "name": "La Stella",
+    "seme": null,
+    "base_value": 17,
+    "arcana": "major"
+  },
+  {
+    "name": "La Luna",
+    "seme": null,
+    "base_value": 18,
+    "arcana": "major"
+  },
+  {
+    "name": "Il Sole",
+    "seme": null,
+    "base_value": 19,
+    "arcana": "major"
+  },
+  {
+    "name": "Il Giudizio",
+    "seme": null,
+    "base_value": 20,
+    "arcana": "major"
+  },
+  {
+    "name": "Il Mondo",
+    "seme": null,
+    "base_value": 21,
+    "arcana": "major"
+  },
+  {
+    "name": "Asso di Bastoni",
+    "seme": "Bastoni",
+    "base_value": 11,
+    "arcana": "minor"
+  },
+  {
+    "name": "Due di Bastoni",
+    "seme": "Bastoni",
+    "base_value": 2,
+    "arcana": "minor"
+  },
+  {
+    "name": "Tre di Bastoni",
+    "seme": "Bastoni",
+    "base_value": 3,
+    "arcana": "minor"
+  },
+  {
+    "name": "Quattro di Bastoni",
+    "seme": "Bastoni",
+    "base_value": 4,
+    "arcana": "minor"
+  },
+  {
+    "name": "Cinque di Bastoni",
+    "seme": "Bastoni",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Sei di Bastoni",
+    "seme": "Bastoni",
+    "base_value": 6,
+    "arcana": "minor"
+  },
+  {
+    "name": "Sette di Bastoni",
+    "seme": "Bastoni",
+    "base_value": 7,
+    "arcana": "minor"
+  },
+  {
+    "name": "Otto di Bastoni",
+    "seme": "Bastoni",
+    "base_value": 8,
+    "arcana": "minor"
+  },
+  {
+    "name": "Nove di Bastoni",
+    "seme": "Bastoni",
+    "base_value": 9,
+    "arcana": "minor"
+  },
+  {
+    "name": "Dieci di Bastoni",
+    "seme": "Bastoni",
+    "base_value": 10,
+    "arcana": "minor"
+  },
+  {
+    "name": "Fante di Bastoni",
+    "seme": "Bastoni",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Cavaliere di Bastoni",
+    "seme": "Bastoni",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Regina di Bastoni",
+    "seme": "Bastoni",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Re di Bastoni",
+    "seme": "Bastoni",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Asso di Spade",
+    "seme": "Spade",
+    "base_value": 11,
+    "arcana": "minor"
+  },
+  {
+    "name": "Due di Spade",
+    "seme": "Spade",
+    "base_value": 2,
+    "arcana": "minor"
+  },
+  {
+    "name": "Tre di Spade",
+    "seme": "Spade",
+    "base_value": 3,
+    "arcana": "minor"
+  },
+  {
+    "name": "Quattro di Spade",
+    "seme": "Spade",
+    "base_value": 4,
+    "arcana": "minor"
+  },
+  {
+    "name": "Cinque di Spade",
+    "seme": "Spade",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Sei di Spade",
+    "seme": "Spade",
+    "base_value": 6,
+    "arcana": "minor"
+  },
+  {
+    "name": "Sette di Spade",
+    "seme": "Spade",
+    "base_value": 7,
+    "arcana": "minor"
+  },
+  {
+    "name": "Otto di Spade",
+    "seme": "Spade",
+    "base_value": 8,
+    "arcana": "minor"
+  },
+  {
+    "name": "Nove di Spade",
+    "seme": "Spade",
+    "base_value": 9,
+    "arcana": "minor"
+  },
+  {
+    "name": "Dieci di Spade",
+    "seme": "Spade",
+    "base_value": 10,
+    "arcana": "minor"
+  },
+  {
+    "name": "Fante di Spade",
+    "seme": "Spade",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Cavaliere di Spade",
+    "seme": "Spade",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Regina di Spade",
+    "seme": "Spade",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Re di Spade",
+    "seme": "Spade",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Asso di Denari",
+    "seme": "Denari",
+    "base_value": 11,
+    "arcana": "minor"
+  },
+  {
+    "name": "Due di Denari",
+    "seme": "Denari",
+    "base_value": 2,
+    "arcana": "minor"
+  },
+  {
+    "name": "Tre di Denari",
+    "seme": "Denari",
+    "base_value": 3,
+    "arcana": "minor"
+  },
+  {
+    "name": "Quattro di Denari",
+    "seme": "Denari",
+    "base_value": 4,
+    "arcana": "minor"
+  },
+  {
+    "name": "Cinque di Denari",
+    "seme": "Denari",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Sei di Denari",
+    "seme": "Denari",
+    "base_value": 6,
+    "arcana": "minor"
+  },
+  {
+    "name": "Sette di Denari",
+    "seme": "Denari",
+    "base_value": 7,
+    "arcana": "minor"
+  },
+  {
+    "name": "Otto di Denari",
+    "seme": "Denari",
+    "base_value": 8,
+    "arcana": "minor"
+  },
+  {
+    "name": "Nove di Denari",
+    "seme": "Denari",
+    "base_value": 9,
+    "arcana": "minor"
+  },
+  {
+    "name": "Dieci di Denari",
+    "seme": "Denari",
+    "base_value": 10,
+    "arcana": "minor"
+  },
+  {
+    "name": "Fante di Denari",
+    "seme": "Denari",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Cavaliere di Denari",
+    "seme": "Denari",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Regina di Denari",
+    "seme": "Denari",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Re di Denari",
+    "seme": "Denari",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Asso di Coppe",
+    "seme": "Coppe",
+    "base_value": 11,
+    "arcana": "minor"
+  },
+  {
+    "name": "Due di Coppe",
+    "seme": "Coppe",
+    "base_value": 2,
+    "arcana": "minor"
+  },
+  {
+    "name": "Tre di Coppe",
+    "seme": "Coppe",
+    "base_value": 3,
+    "arcana": "minor"
+  },
+  {
+    "name": "Quattro di Coppe",
+    "seme": "Coppe",
+    "base_value": 4,
+    "arcana": "minor"
+  },
+  {
+    "name": "Cinque di Coppe",
+    "seme": "Coppe",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Sei di Coppe",
+    "seme": "Coppe",
+    "base_value": 6,
+    "arcana": "minor"
+  },
+  {
+    "name": "Sette di Coppe",
+    "seme": "Coppe",
+    "base_value": 7,
+    "arcana": "minor"
+  },
+  {
+    "name": "Otto di Coppe",
+    "seme": "Coppe",
+    "base_value": 8,
+    "arcana": "minor"
+  },
+  {
+    "name": "Nove di Coppe",
+    "seme": "Coppe",
+    "base_value": 9,
+    "arcana": "minor"
+  },
+  {
+    "name": "Dieci di Coppe",
+    "seme": "Coppe",
+    "base_value": 10,
+    "arcana": "minor"
+  },
+  {
+    "name": "Fante di Coppe",
+    "seme": "Coppe",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Cavaliere di Coppe",
+    "seme": "Coppe",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Regina di Coppe",
+    "seme": "Coppe",
+    "base_value": 5,
+    "arcana": "minor"
+  },
+  {
+    "name": "Re di Coppe",
+    "seme": "Coppe",
+    "base_value": 5,
+    "arcana": "minor"
+  }
+]
